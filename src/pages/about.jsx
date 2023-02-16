@@ -66,16 +66,13 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I have always been fascinated by the intersection of the arts and technology. This interest led me to attend the Toledo School for the Arts, where I majored in graphic design and music. While in school, my love of technology and the arts grew, and I became even more interested in software development.
+                I have always been fascinated by the joining of art and technology. Whether it be digital art, music production, photography, or web design, it piqued my interest. This interest led me to attend the Toledo School for the Arts, where I majored in graphic design and music. While in school, my passion for technology and the arts grew, and I became even more interested in pursuing a career in software engineering.
               </p>
               <p>
-                AAfter graduating, I joined Best Buy as a sales advisor, where I honed my skills in customer service and sales. Despite my success at Best Buy, in 2020, I decided to take the next step in my software engineering career and joined a small web development agency. Here, I had the opportunity to work with other developers on client projects and further develop my skills in a professional environment.
+                After graduating in 2017, I joined Best Buy as a sales advisor, where I honed my sales and customer service skills. Once I climbed the ladder at Best Buy, I decided to take the next big step in my software engineering career. At the start of 2022, I joined a small web development agency where I further expanded my programming abilities and collaborated with other developers on client jobs across small and medium-sized businesses.
               </p>
               <p>
-                When I’m not coding, you can find me at a concert, the cinema, or one 
-                of the many beautiful Metroparks in Toledo. I have a great passion for 
-                the performing arts, and I love supporting the incredible local artists 
-                within my community.
+                Since becoming a freelancer, I have worked on various projects, including e-commerce websites, content management systems, and custom-built web applications. I pride myself on my ability to understand my clients' needs and deliver high-quality software solutions that exceed their expectations. When I’m not coding, you can find me at a concert, the cinema, or one of the many beautiful Metroparks in Toledo. I love supporting the incredible local artists within my community.
               </p>
               <p>
                 

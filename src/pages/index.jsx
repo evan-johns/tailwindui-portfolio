@@ -251,7 +251,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Evan Johns - Portfolio 
+          Portfolio - Evan Johns 
         </title>
         <meta
           name="description"
