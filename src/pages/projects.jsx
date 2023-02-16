@@ -13,7 +13,7 @@ const projects = [
   {
     name: 'Ellissinema',
     description:
-      'A mediocre podcast discussing arts and crafts.',
+      '"A mediocre podcast discussing arts and crafts."',
     link: { href: 'http://ellissinema.netlify.app', label: 'ellissinema.netlify.app' },
     logo: logoPlanetaria,
   },
