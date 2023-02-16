@@ -11,14 +11,14 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'Ellissinema',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+      'A mediocre podcast discussing arts and crafts.',
+    link: { href: 'http://ellissinema.netlify.app', label: 'ellissinema.netlify.app' },
     logo: logoPlanetaria,
   },
   {
-    name: 'Animaginary',
+    name: 'Mocha Mart',
     description:
       'High performance web animation library, hand-written in optimized WASM.',
     link: { href: '#', label: 'github.com' },
