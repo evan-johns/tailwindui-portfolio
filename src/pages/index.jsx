@@ -250,12 +250,10 @@ export default function Home({ articles }) {
   return (
     <>
       <Head>
-        <title>
-          Portfolio - Evan Johns 
-        </title>
+        <title>Portfolio - Evan Johns</title>
         <meta
           name="description"
-          content="I’m Evan, a software designer and entrepreneur based in Toledo, Ohio. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
+          content="My name is Evan Johns, and I’m a freelance full-stack software engineer based in Toledo, Ohio. I specialize in developing web applications with TypeScript alongside powerful JavaScript frameworks and libraries such as React, Next.js, Node, and TailwindCSS. I’m passionate about building beautiful, user-friendly, and highly functional web applications that help businesses achieve their goals."
         />
       </Head>
       <Container className="mt-9">
@@ -264,7 +262,13 @@ export default function Home({ articles }) {
             Software engineer, full-stack developer, and technology enthusiast.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            My name is Evan Johns, and I’m a freelance full-stack software engineer based in Toledo, Ohio. I specialize in developing web applications with TypeScript alongside powerful JavaScript frameworks and libraries such as React, Next.js, Node, and TailwindCSS. I’m passionate about building beautiful, user-friendly, and highly functional web applications that help businesses achieve their goals.
+            My name is Evan Johns, and I’m a freelance full-stack software
+            engineer based in Toledo, Ohio. I specialize in developing web apps
+            in TypeScript, with a combination of powerful JavaScript libraries
+            and frameworks such as React, Next.js, Node, and TailwindCSS. I’m
+            passionate about building beautiful, user-friendly, and highly
+            functional web applications that help businesses achieve their
+            goals.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
